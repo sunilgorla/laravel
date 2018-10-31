@@ -7,4 +7,4 @@ phases:
       - cd $CODEBUILD_SRC_DIR; composer install --no-interaction --prefer-dist
 artifacts:
   files:
-    - "*/**"
+    - '*/**'
